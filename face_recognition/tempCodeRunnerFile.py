@@ -1,1 +1,1 @@
-x, y
+gray_img, minNeighbors=10
