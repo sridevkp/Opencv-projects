@@ -5,4 +5,5 @@ deepface/
 fire_detect/
 RealTimeObjectDetectionTemplate/
 football_analysis/
-omr_evaluate/
+omr_evaluater/
+/models
